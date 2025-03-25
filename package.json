@@ -1,0 +1,27 @@
+{
+  "name": "react-part3-laying-the-foundation",
+  "version": "1.0.0",
+  "description": "this is about react app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raja-raavi/React-part3-LayingTheFoundation.git"
+  },
+  "author": "Raja Raavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raja-raavi/React-part3-LayingTheFoundation/issues"
+  },
+  "homepage": "https://github.com/raja-raavi/React-part3-LayingTheFoundation#readme",
+  "devDependencies": {
+    "parcel": "^2.14.2"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

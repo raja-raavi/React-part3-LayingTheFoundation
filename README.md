@@ -32,7 +32,7 @@ Everyone think like React.createElement is a HTML element - No, It's a React ele
 
 const heading = React.createElement("h1", {id: "heading"}, "Namaste React"); to create Elemet but if we have nested structres then it very difficult to make
 
-so Facebook developers think that this is the good way to create the Elements and they introduced the "JSX"
+so Facebook developers think that this is not the good way to create the Elements and they introduced the "JSX"
 
 Many of us think that JSX is a part of Recat - No, JSX is different and React is different
 
